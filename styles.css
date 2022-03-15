@@ -7,3 +7,15 @@ div{
     display: block;
     border: 1px solid red;
 }
+.klase {
+    border: 1px solid;
+}
+.klase2{
+    background-color: aqua;
+}
+.klase3{
+    background-color: blue;
+}
+.klase4{
+    background-color: #eee;
+}
