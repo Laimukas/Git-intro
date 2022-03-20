@@ -728,3 +728,6 @@ function onSubmit(e){
 //beabejo jei perkrausit puslapi, visi suvesti duomenys isnyks,nes
 //tai neissisaugo duonbazej,tad jei norim dar ir issaugot duomenis,reik pasimokint daugiau
 //siam kartui tiek ;-)
+
+
+//truputi isbandau git hub,pakeitimus dedu
